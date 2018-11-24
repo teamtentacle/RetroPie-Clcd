@@ -189,6 +189,8 @@ while 1:
 
          flag = "TURN OFF"
          lines = rom
+
+""" deleted scroll message(24/11/2018)
          wait = 0
          speed = 0.1
 
@@ -206,3 +208,4 @@ while 1:
                break
          sec = sec + 1
          sleep(1)
+"""
